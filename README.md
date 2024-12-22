@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/samnimoh" target="blank"><img src="https://img.shields.io/twitter/follow/samnimoh?logo=twitter&style=for-the-badge" alt="samnimoh" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Go and Distributed systems**
+- 🌱 I’m currently learning **Rust, Go and Distributed systems**
 
 <!-- - 👨‍💻 All of my projects are available at [www.samuelnimoh.com](https://www.samuelnimoh.com) -->
 
